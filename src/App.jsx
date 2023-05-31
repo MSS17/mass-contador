@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       
-      <h1>Ejercicio 1 Contador</h1>
+      <h1>Ejercicio 2 Contador</h1>
       <div className="container">
         <div className="card">
           <div className="card-Header">
